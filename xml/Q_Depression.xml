@@ -1,0 +1,67 @@
+<quiz>
+  <question>
+    <text>Little interest or pleasure in doing things</text>
+		<option>Never</option>
+		<option>Sometimes</option>
+		<option>More than half time</option>
+		<option>Always</option>
+  </question>
+  <question>
+    <text>Feeling down, depressed, or hopeless</text>
+		<option>Never</option>
+		<option>Sometimes</option>
+		<option>More than half time</option>
+		<option>Always</option>
+  </question>
+  <question>
+    <text>Trouble falling or staying asleep, or sleeping too much </text>
+		<option>Never</option>
+		<option>Sometimes</option>
+		<option>More than half time</option>
+		<option>Always</option>
+  </question>
+ <question>
+    <text>Feeling tired or having little energy</text>
+	 <option>Never</option>
+	 <option>Sometimes</option>
+	 <option>More than half time</option>
+	 <option>Always</option>
+  </question> <question>
+    <text>Poor appetite or overeating </text>
+		<option>Never</option>
+		<option>Sometimes</option>
+		<option>More than half time</option>
+		<option>Always</option>
+  </question> <question>
+    <text>Feeling bad about yourself - or that you are a failure or have let yourself or your family down</text>
+		<option>Never</option>
+		<option>Sometimes</option>
+		<option>More than half time</option>
+		<option>Always</option>
+  </question> <question>
+    <text>Trouble concentrating on things, such as reading the newspaper or watching television</text>
+		<option>Never</option>
+		<option>Sometimes</option>
+		<option>More than half time</option>
+		<option>Always</option>
+  </question> <question>
+    <text>Moving or speaking so slowly that other people could have noticed</text>
+		<option>Never</option>
+		<option>Sometimes</option>
+		<option>More than half time</option>
+		<option>Always</option>
+  </question> <question>
+    <text>Thoughts that you would be better off dead, or of hurting yourself</text>
+		<option>Never</option>
+		<option>Sometimes</option>
+		<option>More than half time</option>
+		<option>Always</option>
+  </question> <question>
+    <text>If you had days with the above problems, how often did these problems cause you problems at work, at home, at school, or with other people?
+</text>
+		<option>Never</option>
+		<option>Sometimes</option>
+		<option>More than half time</option>
+		<option>Always</option>
+  </question>
+</quiz>

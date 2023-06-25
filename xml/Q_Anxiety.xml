@@ -1,0 +1,66 @@
+<quiz>
+  <question>
+    <text>In the past 2 weeks: Have you felt nervous, agitated or irritable?</text>
+    <option>Never</option>
+    <option>Sometimes</option>
+    <option>More than half time</option>
+    <option>Always</option>
+  </question>
+  <question>
+    <text>In the past 2 weeks: Have you felt sad and hopeless?</text>
+     <option>Never</option>
+    <option>Sometimes</option>
+    <option>More than half time</option>
+    <option>Always</option>
+  </question>
+  <question>
+    <text>In the last 2 weeks: Have you felt that you tend to isolate yourself from others and spend more time alone?</text>
+     <option>Never</option>
+    <option>Sometimes</option>
+    <option>More than half time</option>
+    <option>Always</option>
+  </question>
+ <question>
+    <text>In the last 2 weeks: Have you had sleep disturbances (sleeping too much or too little)?</text>
+     <option>Never</option>
+    <option>Sometimes</option>
+    <option>More than half time</option>
+    <option>Always</option>
+  </question> <question>
+    <text>In the past 2 weeks: How often have you put off playing sports or practicing a hobby of yours (playing an instrument, painting, reading, etc.)?</text>
+     <option>Never</option>
+    <option>Sometimes</option>
+    <option>More than half time</option>
+    <option>Always</option>
+  </question> <question>
+    <text>In the last 2 weeks: How often have you postponed appointments already scheduled?</text>
+     <option>Never</option>
+    <option>Sometimes</option>
+    <option>More than half time</option>
+    <option>Always</option>
+  </question> <question>
+    <text>In the last 2 weeks: Have you experienced eating problems? Eat more or lose your appetite?</text>
+     <option>Never</option>
+    <option>Sometimes</option>
+    <option>More than half time</option>
+    <option>Always</option>
+  </question> <question>
+    <text>In the last 2 weeks: Have you felt more tired or dehydrated?</text>
+     <option>Never</option>
+    <option>Sometimes</option>
+    <option>More than half time</option>
+    <option>Always</option>
+  </question> <question>
+    <text>In the past 2 weeks: Have you felt the need to drink more alcohol or smoke more?</text>
+     <option>Never</option>
+    <option>Sometimes</option>
+    <option>More than half time</option>
+    <option>Always</option>
+  </question> <question>
+    <text>In the past 2 weeks: Have you thought about suicide?</text>
+     <option>Never</option>
+    <option>Sometimes</option>
+    <option>More than half time</option>
+    <option>Always</option>
+  </question>
+</quiz>
